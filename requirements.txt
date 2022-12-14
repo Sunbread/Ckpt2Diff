@@ -1,0 +1,8 @@
+OmegaConf
+pytorch_lightning
+accelerate
+diffusers[torch]
+transformers
+scipy
+click
+patch-ng
